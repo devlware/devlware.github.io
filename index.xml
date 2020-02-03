@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diego W. Antunes</title>
+    <link>http://diegowa.com/</link>
+    <description>Recent content on Diego W. Antunes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://diegowa.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Hugo Post</title>
+      <link>http://diegowa.com/posts/first-post/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://diegowa.com/posts/first-post/</guid>
+      <description>Introduction First post. Testing 1 2 3&amp;hellip; Testing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://diegowa.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://diegowa.com/about/</guid>
+      <description>I&amp;rsquo;m a computer engineer and I&amp;rsquo;ve been playing with computers for a long time.
+I love creating things, software most of the time but I have also created hardware a few years ago.
+Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://diegowa.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://diegowa.com/contact/</guid>
+      <description>You can find me at @diegowa on twitter.
+Email devlware or diego.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://diegowa.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://diegowa.com/projects/</guid>
+      <description>Kubermetes
+Python
+Go
+CI/CD</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://diegowa.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://diegowa.com/resume/</guid>
+      <description>Short Intro I&amp;rsquo;m a software engineer.
+Experience DevOps Engineer - Send4/Troquefacil; Curitiba — 07/2019-Present  I manage a small group of 6 devs (back &amp;amp; frontends), I run 1x1 with team and I’m also responsible to hire new people. I created and improved our build and deployment pipelines to have faster products releases. Reduced by 40% frontend API calls by deploying New Relic and monitoring http requests. I am responsible to build and maintain our cloud infrastructure inside GCP, manage Kubernetes clusters, deploy new services and products.</description>
+    </item>
+    
+  </channel>
+</rss>
