@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme on Diego W. Antunes</title>
-    <link>http://diegowa.com/series/theme/</link>
+    <link>https://diegowa.com/series/theme/</link>
     <description>Recent content in Theme on Diego W. Antunes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://diegowa.com/series/theme/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegowa.com/series/theme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Hugo Post</title>
-      <link>http://diegowa.com/posts/first-post/</link>
+      <link>https://diegowa.com/posts/first-post/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://diegowa.com/posts/first-post/</guid>
+      <guid>https://diegowa.com/posts/first-post/</guid>
       <description>Introduction First post. Testing 1 2 3&amp;hellip; Testing&amp;hellip;</description>
     </item>
     

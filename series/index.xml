@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Diego W. Antunes</title>
-    <link>http://diegowa.com/series/</link>
+    <link>https://diegowa.com/series/</link>
     <description>Recent content in Series on Diego W. Antunes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://diegowa.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegowa.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>http://diegowa.com/series/hugo/</link>
+      <link>https://diegowa.com/series/hugo/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://diegowa.com/series/hugo/</guid>
+      <guid>https://diegowa.com/series/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>http://diegowa.com/series/theme/</link>
+      <link>https://diegowa.com/series/theme/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://diegowa.com/series/theme/</guid>
+      <guid>https://diegowa.com/series/theme/</guid>
       <description></description>
     </item>
     
