@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Diego W. Antunes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 21:23:15 -0300</lastBuildDate>
     
 	<atom:link href="https://diegowa.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>k8s</title>
+      <link>https://diegowa.com/tags/k8s/</link>
+      <pubDate>Tue, 21 Jul 2020 21:23:15 -0300</pubDate>
+      
+      <guid>https://diegowa.com/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://diegowa.com/tags/kubernetes/</link>
+      <pubDate>Tue, 21 Jul 2020 21:23:15 -0300</pubDate>
+      
+      <guid>https://diegowa.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://diegowa.com/tags/podcast/</link>
+      <pubDate>Tue, 21 Jul 2020 21:23:15 -0300</pubDate>
+      
+      <guid>https://diegowa.com/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post</title>
+      <link>https://diegowa.com/tags/post/</link>
+      <pubDate>Tue, 21 Jul 2020 21:23:15 -0300</pubDate>
+      
+      <guid>https://diegowa.com/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>warm-up</title>
+      <link>https://diegowa.com/tags/warm-up/</link>
+      <pubDate>Tue, 21 Jul 2020 21:23:15 -0300</pubDate>
+      
+      <guid>https://diegowa.com/tags/warm-up/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>first</title>
@@ -26,15 +71,6 @@
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://diegowa.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post</title>
-      <link>https://diegowa.com/tags/post/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://diegowa.com/tags/post/</guid>
       <description></description>
     </item>
     

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Diego W. Antunes</title>
-    <link>https://diegowa.com/posts/</link>
-    <description>Recent content in Posts on Diego W. Antunes</description>
+    <title>warm-up on Diego W. Antunes</title>
+    <link>https://diegowa.com/tags/warm-up/</link>
+    <description>Recent content in warm-up on Diego W. Antunes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jul 2020 21:23:15 -0300</lastBuildDate>
     
-	<atom:link href="https://diegowa.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegowa.com/tags/warm-up/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://diegowa.com/posts/warm-up/</guid>
       <description>Warm-up with Kubernetes PodCast I&amp;rsquo;m really trying to come up with some useful for me and for others. I&amp;rsquo;m working on an Ansible post but before that I will remove the rust and warm-up.
 I&amp;rsquo;ve been working with Kubernetes for the past 2-3 years and one thing that I like about it is that you can find a lot of resources on the web. The documentation is good and you can even help with the translation to other languages besides English.</description>
-    </item>
-    
-    <item>
-      <title>First Hugo Post</title>
-      <link>https://diegowa.com/posts/first-post/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://diegowa.com/posts/first-post/</guid>
-      <description>Introduction First post. Testing 1 2 3&amp;hellip; Testing&amp;hellip;</description>
     </item>
     
   </channel>

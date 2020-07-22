@@ -4,7 +4,47 @@
   
   <url>
     <loc>https://diegowa.com/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T21:23:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegowa.com/tags/k8s/</loc>
+    <lastmod>2020-07-21T21:23:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegowa.com/tags/kubernetes/</loc>
+    <lastmod>2020-07-21T21:23:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegowa.com/tags/podcast/</loc>
+    <lastmod>2020-07-21T21:23:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegowa.com/tags/post/</loc>
+    <lastmod>2020-07-21T21:23:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegowa.com/posts/</loc>
+    <lastmod>2020-07-21T21:23:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegowa.com/tags/</loc>
+    <lastmod>2020-07-21T21:23:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegowa.com/posts/warm-up/</loc>
+    <lastmod>2020-07-21T21:23:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegowa.com/tags/warm-up/</loc>
+    <lastmod>2020-07-21T21:23:15-03:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +68,7 @@
   </url>
   
   <url>
-    <loc>https://diegowa.com/tags/post/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diegowa.com/posts/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://diegowa.com/series/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diegowa.com/tags/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
