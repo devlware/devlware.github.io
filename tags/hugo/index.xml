@@ -6,11 +6,7 @@
     <description>Recent content in hugo on Diego W. Antunes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://diegowa.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://diegowa.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Hugo Post</title>
       <link>https://diegowa.com/posts/first-post/</link>
